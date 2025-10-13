@@ -1,0 +1,10 @@
+.especial{
+    color: blue;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.normal{
+    color: black;
+    font-weight: normal;
+}
