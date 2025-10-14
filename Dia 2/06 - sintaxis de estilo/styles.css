@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.principal {
+    border: 2px solid #0077cc;
+    padding: 20px;
+    background-color: #e6f2ff;
+    border-radius: 10px;
+}
+
+#informacion {
+    font-size: 1.2rem;
+    color: #005fa3;
+    margin-top: 10px;
+}
+
+a [href*".edu"] {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+
+h1:hover {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #004080;
+}
+
+.principal::first-line {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
