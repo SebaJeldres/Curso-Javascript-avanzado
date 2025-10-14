@@ -1,0 +1,45 @@
+body{
+    background-color: #0f5060;
+}
+header{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 24px;
+}
+
+div{
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin-bottom: 16px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+p {
+    text-align: left; 
+    color: #ffffff;
+}
+
+footer p{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 24px;
+}
+
+h2:hover{
+    color: #a8cb41;
+}
+
+#temas, #contexto, #personajes-principales, #escenas-memorables {
+    text-align: left;
+    color: #34495e;
+    font-size: 1.1rem;
+    background-color: #4b7380;
+    color: #ffffff;
+}
+
+.impacto, .eventos-clave,.resumen {
+    text-align: left;
+    background-color: #4b7380;
+    color: #ffffff;
+}
+

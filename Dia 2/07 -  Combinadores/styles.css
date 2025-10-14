@@ -1,0 +1,15 @@
+div p {
+    color: blue;
+}
+
+ol > li {
+    font-weight: bold;
+}
+
+h2 + h3 {
+    background-color: #db3737;
+}
+
+p [alingn="left"] {
+    background-color: #580909;
+}
